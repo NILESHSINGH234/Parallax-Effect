@@ -17,7 +17,11 @@ I just made my 1st Project Website With a Parallax Effect using HTML and CSS
  - Transform Property
 
 ## LIVE
-[](https://screenrec.com/share/6LxR45ewXJ)
+
+
+https://user-images.githubusercontent.com/131458541/235695571-b715c508-2484-458b-8e47-d0c724f4f74a.mp4
+
+
 
 
 ## Link
